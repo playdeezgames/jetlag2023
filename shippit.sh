@@ -1,5 +1,5 @@
 #!/bin/sh
-IDE=/E/itch/tic80/tic80 
+BUILD=/E/itch/tic80/tic80.exe 
 CART=jetlag2023
 ITCH_USER=thegrumpygamedev
 ITCH_PROJECT=jetlag2023
